@@ -51,4 +51,4 @@ CACHE_DIR=$2
 ffmpeg_download "$BUILD_DIR/.opt" "$CACHE_DIR"
 profile_d "$BUILD_DIR/.profile.d/ffmpeg-Yc9Oh1.sh" "$BUILD_DIR/.opt/ffmpeg"
 
-ls -lAR /tmp/a
+# ls -lAR /tmp/a
